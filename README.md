@@ -1,4 +1,4 @@
-GeminiX is a cross-platform, cross-framework abstraction providing a single unified API for using Google's Gemini AI SDK in cross-platform mobile apps on iOS, Android and Web platforms.
+GeminiX is a cross-platform, cross-framework abstraction providing a single unified API for using Google's [Gemini AI SDKs](https://ai.google.dev/docs) in cross-platform mobile apps on iOS, Android and Web platforms.
 
 It enables the use of cutting-edge generative AI directly in cross-platform mobile apps with no server-side code required.
 
