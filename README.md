@@ -5,7 +5,7 @@ It enables the use of cutting-edge generative AI directly in cross-platform mobi
 Gemini AI models are designed to understand and generate natural language and multi-modal (text and vision) content, and are available in a variety of languages and regions.
 
 Features include:
-- Unified cross-platform abstraction for the Gemini AI SDKs for Android and iOS.
+- Unified cross-platform abstraction for the Gemini AI SDKs.
 - Text-only and multi-modal (text and vision) models.
 - Streaming and non-streaming interactions.
 - Chat history for multi-turn conversations.
